@@ -1,0 +1,5 @@
+📁 ai-vocab-enhancer/
+├── app.py
+├── requirements.txt
+└── .streamlit/
+    └── secrets.toml  ← (not uploaded to GitHub – for local use or set via Streamlit UI)
