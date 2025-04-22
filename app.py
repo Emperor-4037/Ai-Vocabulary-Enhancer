@@ -11,7 +11,7 @@ if not api_key:
 
 genai.configure(api_key=api_key)
 
-model = genai.GenerativeModel("gemini-pro")
+model = genai.GenerativeModel("models/gemini-pro")
 
 st.set_page_config(page_title="AI Vocabulary Enhancer", layout="centered")
 st.title("📚 AI Vocabulary Enhancer")
